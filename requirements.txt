@@ -1,6 +1,5 @@
 python-telegram-bot==20.7
 yfinance
-requests
 numpy
+requests
 apscheduler
-reportlab
